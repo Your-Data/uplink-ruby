@@ -23,7 +23,7 @@ Ruby bindings to the Storj C library (libuplink/uplink-c).
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'uplink-ruby', git: 'https://github.com/storj-thirdparty/uplink-ruby', tag: 'v1.9.0'
+gem 'uplink-ruby', git: 'https://github.com/s101d1/uplink-ruby', tag: 'v1.9.0'
 ```
 
 Make sure the major & minor version of the gem or git tag matches the uplink-c release version.
